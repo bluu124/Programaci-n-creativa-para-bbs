@@ -4,11 +4,11 @@
 
 ## ¿Quien soy?
 
-> Todavía soy un bb y me falta mucho por aprender🍼pero este curso esta realizado con mucho cariño y dedicado a Ana Ferral😸 que me motivo a cumplir este sueño.
+> Todavía soy un bb y me falta mucho por aprender🍼pero este curso esta realizado con mucho cariño y dedicado a Ana Ferral😸 
 >
 > Espero que sea un detonante para seguir explorando este mundo lleno de posibilidades 😽👽👨🏽‍🚀🚀
 
-Mis amigos me conocen bajo el nombre clave BLUU, de vez en cuando soy un artista multimedia, dedicado al chiptune y al glitch art  🩻☢️ También, soy uno de los cofundadores del colectivo  [Once Super Portable  ☕](https://www.instagram.com/oncesuperportable/) 
+Mis amigos me conocen bajo el nombre clave BLUU, de vez en cuando soy artista multimedia, dedicado a las visuales reactivas, chiptune y al glitch art  🩻☢️ También, soy uno de los cofundadores del colectivo  [Once Super Portable  ☕](https://www.instagram.com/oncesuperportable/) 
 
 Me puedes contactar:
 
@@ -24,11 +24,11 @@ Me puedes contactar:
 
 ## Requisitos 👻
 
-Ser curioso con ganas de aprender, saber buscar por internet y quizás un poco de matemática básica y un poco de ingles (el traductor nos puede ayudar mucho). 
+Tener ganas de aprender, saber buscar por internet y quizás un poco de matemática básica y un poco de ingles (el traductor nos puede ayudar mucho). 
 
 Todo los conocimientos sirven y siempre habrá un plan B  🧠✨ 
 
-Para TouchDesigner, tiene los siguientes requisitos mínimos de sistema: 
+Para TouchDesigner, tiene los siguientes requisitos mínimos de sistema (podemos revisar otras alternativas).
 
 > Windows 8.1 / Windows 10 / Windows 11
 >
@@ -59,7 +59,7 @@ Para TouchDesigner, tiene los siguientes requisitos mínimos de sistema:
 
 > Es un curso personalizado y se construirá a medida que la curiosidad haga los suyo 👨🏽‍🚀📺
 
-El curso trata sobre descubrir algunos conceptos básicos de programación y conocer herramientas para la programación creativa para bbs todxs👼🏽
+El curso trata sobre descubrir algunos conceptos básicos de programación y conocer herramientas para experimentar con código de forma fácil e inclusiva 👼🏽
 
 A priori, veremos: 
 
@@ -86,5 +86,34 @@ A priori, veremos:
 
 
 
-# Links🌐
+## Registros
+
+- Github https://github.com/signup?source=login
+- Derivative (TouchDesigner) https://derivative.ca/user/register
+
+
+
+# Webgrafía / 🌐
+
+- [Python/ Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
+
+- [Processing / Getting Started by Casey Reas and Ben Fry](https://processing.org/tutorials/gettingstarted)
+
+- [Processing / Reference](https://processing.org/reference) 
+
+- [TouchDesigner / Getting_Started](https://derivative.ca/UserGuide/Getting_Started_With_TouchDesigner)
+
+- [Git y GitHub para poetas](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+- [p5.js-getting-started-es.pdf](https://github.com/processing/p5.js-getting-started-es/raw/master/v1.0.5.pdf) 
+
+- [openprocessing](https://openprocessing.org/discover/#/trending)
+
+- [Cables.gl](https://cables.gl/)
+
+- [OpenFrameworks](https://openframeworks.cc/) 
+
+  
+
+
 
