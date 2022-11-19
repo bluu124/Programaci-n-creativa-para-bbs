@@ -10,7 +10,6 @@ int cc = 0; //nombre de la tecla midi
 int value = 90; //valor es entre 0 y 127
 int channel = 0; //depende del instrumento 
 int pitch = 64;
-int velocity = 127;
 
 // variables del controlador
 int fondoRojo = 0;
@@ -30,12 +29,10 @@ void setup() {
 }
 
 void draw() {
-
-
-  ControlChange change = new ControlChange(channel, cc, velocity);
+  //constructor 
+  ControlChange change = new ControlChange(channel, cc, value);
   myBus.sendControllerChange(change); // Send a controllerChange
-  //delay(2000);
-  
+
   background(fondoRojo, fondoVerde, fondoAzul);
 }
 
@@ -52,14 +49,12 @@ void controllerChange(int channel, int cc, int value) {
   switch(cc) {
   case 16: //controla R del fondo
     fondoRojo = int(map(value, 0, 127, 10, 300));
+    break;
   case 17: //controla R del fondo
     fondoVerde = int(map(value, 0, 127, 10, 300));
+    break;
   case 18: //controla R del fondo
     fondoAzul = int(map(value, 0, 127, 10, 300));
+    break;
   }
-}
-
-void delay(int time) {
-  int current = millis();
-  while (millis () < current+time) Thread.yield();
 }
